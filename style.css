@@ -1,0 +1,26 @@
+.a {
+  font-size: medium;
+  color: black;
+  font-family: 나눔고딕;
+  text-align:left;
+}
+
+.b {
+  background: lightpink;
+  border-radius: 10px;
+  color: black;
+  text-align: center;
+  font-family: 나눔고딕;
+}
+
+.c {
+  float: left;
+  border: 0px solid;
+  font-size: medium;
+  color: black;
+  font-family: 나눔고딕;
+  width:300px;
+  text-align:center;
+  margin: 0 auto;
+  padding-bottom:20px;
+}
